@@ -46,10 +46,10 @@ namespace NPC_Creator_NT.DataModels
         public FriendsAndFamilyModel FriendsAndFamily { get; set; }
         public bool FlowerDanceCanDance { get; set; }
         public int[] WinterStarGifts { get; set; }
-        public string WinterStarParticipant { get; set; } = null;
+        public bool WinterStarParticipant { get; set; }
         public string UnlockConditions { get; set; }
         public bool SpawnIfMissing { get; set; }
-        public HomeSpawnModel[] Home { get; set; }
+        public HomeSpawnModel Home { get; set; } //fix later
         public string TextureName { get; set; } = null;
         public string Appearance { get; set; } = null;
         public string MugShotSourceRect { get; set; } = null;
@@ -64,7 +64,7 @@ namespace NPC_Creator_NT.DataModels
         public bool KissSpriteFacingRight { get; set; }
         public string HiddenProfileEmoteSound { get; set; } = null;
         public int HiddenProfileEmoteDuration { get; set; } = 4000;
-        public int HideenProfileEmoteStartFrame { get; set; } = 32;
+        public int HiddenProfileEmoteStartFrame { get; set; } = 32;
         public int HiddenProfileEmoteFrameCount { get; set; } = 2;
         public int HiddenProfileEmoteFrameDuration { get; set; } = 200;
         public string[] FormerCharacterNames { get; set; }

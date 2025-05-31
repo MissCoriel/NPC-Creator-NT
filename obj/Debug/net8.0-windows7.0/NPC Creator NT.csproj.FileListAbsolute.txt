@@ -1,0 +1,35 @@
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\NPC Creator NT.exe
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\NPC Creator NT.deps.json
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\NPC Creator NT.runtimeconfig.json
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\NPC Creator NT.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\NPC Creator NT.pdb
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\SMAPI.Toolkit.CoreInterfaces.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\SMAPI.Toolkit.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\System.Management.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\Markdig.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\VdfConverter.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\Pathoschild.Http.Client.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\System.Net.Http.Formatting.dll
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\SMAPI.Toolkit.xml
+E:\Stardew Vally Modding\NPC Creator NT\bin\Debug\net8.0-windows7.0\SMAPI.Toolkit.CoreInterfaces.xml
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.csproj.AssemblyReference.cache
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms._00Loading.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms.AddPortraits.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms.AddSprites.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms.CharacterData.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms.CreateProject.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.MainWindow.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Properties.Resources.resources
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.csproj.GenerateResource.cache
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.AssemblyInfoInputs.cache
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.AssemblyInfo.cs
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.csproj.CoreCompileInputs.cache
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Crea.D3DEDE59.Up2Date
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.dll
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\refint\NPC Creator NT.dll
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.pdb
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC Creator NT.genruntimeconfig.cache
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\ref\NPC Creator NT.dll
+E:\Stardew Vally Modding\NPC Creator NT\obj\Debug\net8.0-windows7.0\NPC_Creator_NT.Forms.SelectProject.resources

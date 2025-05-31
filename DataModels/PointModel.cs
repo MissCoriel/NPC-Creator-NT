@@ -8,7 +8,7 @@ namespace NPC_Creator_NT.DataModels
 {
     internal class PointModel
     {
-        public int x { get; set; } = 0;
-        public int y { get; set; } = 0;
+        public int X { get; set; } = 0;
+        public int Y { get; set; } = 0;
     }
 }
